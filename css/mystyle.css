@@ -1,0 +1,57 @@
+@charset "utf-8";
+.p1 {
+    height: 500px;
+    background-image: url(../assest/%E8%A6%8B.JPG);
+    background-position: center center;
+    background-size: cover;
+    margin: 5px;
+}
+.p2 {
+    height: 500px;
+    background-image: url(../assest/%E6%B5%AE%E7%94%9F.jpg);
+    background-position: center center;
+    background-size: cover;
+	margin: 5px;
+}
+.p4 {
+    height: 400px;
+    background-image: url(../assest/%E5%A4%A9%E5%85%89%E6%B5%AE%E7%94%9F.jpg);
+    background-position: center center;
+    background-size: cover;
+	margin: 5px;
+}
+.p5 {
+    height: 400px;
+    background-image: url(../assest/%E6%9C%9B.JPG);
+    background-position: center center;
+    background-size: cover;
+	margin: 5px;
+}
+.p6 {
+    height: 800px;
+    background-image: url(../assest/%E4%BF%AF%E4%BB%B0.JPG);
+    background-position: center center;
+    background-size: cover;
+    margin: 5px;
+}
+
+
+
+.p3 {
+    height: 500px;
+    background-image: url(../assest/%E6%AB%BA%E5%85%89.JPG);
+    background-position: center center;
+    background-size: cover;
+	margin: 5px;
+}
+.h1 {
+    margin: 5px;
+    background-color: hsla(223,52%,23%,1.00);
+    height: 100px;
+    color: hsla(30,33%,54%,1.00);
+    line-height: 100px;
+    font-size: 41px;
+    text-align: center;
+    font-style: normal;
+    text-shadow: 0px 0px 21px hsla(33,33%,67%,1.00);
+}
